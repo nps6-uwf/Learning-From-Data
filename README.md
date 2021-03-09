@@ -17,18 +17,18 @@ approximates well out of sample. </li>
   <li>After learning you will provide her with a <i>g</i>, and with high probability 
 the <i>g</i> which you produce will approximate well out of sample. </li>
   <li>
-    One of two things will happen: 
-    
-    <ol>
-      <li>
-      You will produce a hypothesis <i>g</i>; 
-      </li>
-      <li>
-      You will declare that you failed. 
-      </li>
-    </ol>
-    If you do return a hypothesis <i>g</i>, then with high probability  the <i>g</i> which 
-    you produce will approximate well out of sample. 
+  One of two things will happen: 
+
+  <ol>
+    <li>
+    You will produce a hypothesis <i>g</i>; 
+    </li>
+    <li>
+    You will declare that you failed. 
+    </li>
+  </ol>
+  If you do return a hypothesis <i>g</i>, then with high probability  the <i>g</i> which 
+  you produce will approximate well out of sample. 
   </li>
 </ol>
 
