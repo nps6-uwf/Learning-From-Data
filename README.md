@@ -11,11 +11,18 @@ willing to pay you to solve her problem and produce for her a <i>g</i> which
 approximates <i>f</i>. What is the best that you can promise her among the 
 following: 
 
-(a) After learning you wi ll provide her with a g that you wi ll guarantee 
-a pproximates well out of sample. 
-(b) After learning you wi ll provide her with a g, and with high probabi lity 
-the g which you produce will a pproximate well out of sample. 
-( c) One of two things wi ll happen. 
-(i) You wi ll produce a hypothesis g; 
-(ii) You wi ll declare that you failed. 
-If you do return a hypothesis g, then with high proba bi
+<ol>
+  <li>After learning you will provide her with a g that you will guarantee 
+a pproximates well out of sample. </li>  
+  <li>After learning you will provide her with a g, and with high probability 
+the g which you produce will a pproximate well out of sample. </li>
+  <li>
+    One of two things will happen: 
+    
+    (i) You will produce a hypothesis g; 
+    (ii) You will declare that you failed. 
+    If you do return a hypothesis g, then with high probability  the g which 
+    you produce will approximate well out of sample.   
+  </li>
+</ol>
+
