@@ -36,5 +36,6 @@ the <i>g</i> which you produce will approximate well out of sample. </li>
     
     You cannot guarantee your friend that g will approximate well out of sample.  The problem statement does not explicity state 
     that a pattern exists in the data and does not discuss the set of possible hypotheses, and finally Hoeffding is a probabilistic 
-    bound so we can only gurantee relative to some probability.  The correct choice is (3)
+    bound so we can only gurantee relative to some probability.  The correct choice is (3), we will either have a g that approximates
+    well, implying that Ein is small, or a g that approximates poorly, implying Ein is large.
 
