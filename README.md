@@ -12,17 +12,23 @@ approximates <i>f</i>. What is the best that you can promise her among the
 following: 
 
 <ol>
-  <li>After learning you will provide her with a g that you will guarantee 
-a pproximates well out of sample. </li>  
-  <li>After learning you will provide her with a g, and with high probability 
-the g which you produce will a pproximate well out of sample. </li>
+  <li>After learning you will provide her with a <i>g</i> that you will guarantee 
+approximates well out of sample. </li>  
+  <li>After learning you will provide her with a <i>g</i>, and with high probability 
+the <i>g</i> which you produce will approximate well out of sample. </li>
   <li>
     One of two things will happen: 
     
-    (i) You will produce a hypothesis g; 
-    (ii) You will declare that you failed. 
-    If you do return a hypothesis g, then with high probability  the g which 
-    you produce will approximate well out of sample.   
+    <ol>
+      <li>
+      You will produce a hypothesis <i>g</i>; 
+      </li>
+      <li>
+      You will declare that you failed. 
+      </li>
+    </ol>
+    If you do return a hypothesis <i>g</i>, then with high probability  the <i>g</i> which 
+    you produce will approximate well out of sample. 
   </li>
 </ol>
 
