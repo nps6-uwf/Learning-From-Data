@@ -32,3 +32,5 @@ the <i>g</i> which you produce will approximate well out of sample. </li>
   </li>
 </ol>
 
+    solution
+
