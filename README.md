@@ -32,5 +32,6 @@ the <i>g</i> which you produce will approximate well out of sample. </li>
   </li>
 </ol>
 
-    solution
+    solution:
+    You cannot guarantee your friend that g will approximate well out of sample.  The problem statement does not explicity state that a pattern exists in the data and does not discuss the set of possible hypotheses, and finally Hoeffding is a probabilistic bound so we can only gurantee relative to some probability.  
 
